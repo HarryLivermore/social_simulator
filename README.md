@@ -19,8 +19,8 @@ Experiment:
   
 Requirement:
   Python3
-  Pandas
-  Numpy
-  M
+  pandas
+  numpy
+  matplotlib
   
   
