@@ -17,6 +17,10 @@ Experiment:
   The experiment will analyze the distribution of wealth for all people at age 70, proportion of total wealth held by the wealthiest and share of total wealth held by the wealthiest 20%.
   
   
-  
+Requirement:
+  Python3
+  Pandas
+  Numpy
+  M
   
   
